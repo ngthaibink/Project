@@ -1,2 +1,9 @@
-# Project
-Đây là nơi lưu trữ những project mình đang và đã làm.Tuy còn nhiều sai sót nên mong sẽ được mọi người hướng dẫn thêm 
+
+I'm Thai Binh.
+Student interested in Data Analytics and Data Engineer
+📊 Learning:
+- SQL
+- Power BI
+- Python
+- Statistics
+Looking forward to learning more and developing a wide range of new skills.
